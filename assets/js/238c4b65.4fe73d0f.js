@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrabid_doc=self.webpackChunkrabid_doc||[]).push([[473],{8276:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/rabid-backoffice-docs/blog/tags/facebook","allTagsPath":"/rabid-backoffice-docs/blog/tags","count":1}')}}]);
