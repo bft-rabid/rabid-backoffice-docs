@@ -40,11 +40,17 @@ The transaction hash is displayed on the screen
 
 ![img](/img/nft-10.PNG)
 
+At the bottom of the page, the transaction hash is also displayed as a link, just click on the link and PolygonScan opens in another tab with the hash filtered. 
+
+This link is not stored, so when leaving the page it is lost. But when accessing PolygonScan and filtering by the address of the administrative platform, it is possible to view the transactions.
+
+![img](/img/nft-transction.png)
+
 ## MANAGE MINT
 
-With NFT lying, it is now only possible to manage NFT.
+With NFT minted, it is now only possible to manage NFT.
 The minted NFT is possible to BURN or Publish. The published NFT is displayed in the marketplace listing to be available for sale.
 
-It is always possible to lie more NFTs if necessary.
+It is always possible to mint more NFTs if necessary.
 
 ![img](/img/nft-6.PNG)
