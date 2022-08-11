@@ -1,27 +1,35 @@
 # rabid-admin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+[![Docusaurus](static/img/docusaurus.png)](https://docusaurus.io/)
 
-## Development server
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Installation
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://nodejs.org/en/download/) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/en/docs/install)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Local Development
 
-## Build
+```
+$ npm run start
+$ yarn start
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## Running unit tests
+### Build
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+$ npm run build
+$ yarn build
+```
 
-## Running end-to-end tests
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Deployment
 
-## Further help
+```
+$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

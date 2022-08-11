@@ -46,11 +46,16 @@ This link is not stored, so when leaving the page it is lost. But when accessing
 
 ![img](/img/nft-transction.png)
 
-## MANAGE MINT
+## MANAGE NFT
 
 With NFT minted, it is now only possible to manage NFT.
-The minted NFT is possible to BURN or Publish. The published NFT is displayed in the marketplace listing to be available for sale.
+
+![img](/img/nft-6.PNG)
+
+The minted NFT is possible to BURN or APPROVE. After approving the NFT, it is available to publish on the marketplace listing to be available for sale.
+
+![img](/img/approve.PNG)
+
 
 It is always possible to mint more NFTs if necessary.
 
-![img](/img/nft-6.PNG)
