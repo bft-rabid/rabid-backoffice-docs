@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Rabid Admin',
   tagline: 'Rabid Admin',
-  url: 'https://bft-rabid.github.io',
+  url: 'https://docs-backoffice-rabid.github.io',
   baseUrl: '/rabid-backoffice-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/bft-rabid/rabid-backoffice-docs',
+            'https://github.com/docs-backoffice-rabid/rabid-backoffice-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

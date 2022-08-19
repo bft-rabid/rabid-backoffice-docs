@@ -12,14 +12,14 @@ In the NFTs section, the backoffice user can create and manage the NFTs of the R
 
 ![img](/img/nft-1.PNG)
 
-To delete an NFT it must have a status equal to "Registgered". Enter NFT details and click "DELETE".
+To delete an NFT it must have a status equal to "Registered". Enter NFT details and click "DELETE".
 
 ![img](/img/nft-6.PNG)
 
 
 ## REGISTER NFT
 
-To create an NFT, click on the "New NFT" button and fill in the fields, select the rarity of the NFT to be created.
+To create an NFT, click on the "New NFT" button and fill in the fields, select the rarity of the NFT to be created and fill the parameters.
 
 ![img](/img/nft-3.PNG)
 
