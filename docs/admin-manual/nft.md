@@ -57,6 +57,6 @@ The minted NFT is possible to BURN or APPROVE. After approving the NFT, it is av
 
 ![img](/img/approve.PNG)
 
-
+DANI
 It is always possible to mint more NFTs if necessary.
 
