@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrabid_doc=self.webpackChunkrabid_doc||[]).push([[703],{1573:e=>{e.exports=JSON.parse('{"permalink":"/rabid-backoffice-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
