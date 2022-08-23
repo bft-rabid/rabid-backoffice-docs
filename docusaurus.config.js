@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Rabid Admin',
   tagline: 'Rabid Admin',
-  url: 'https://docs-backoffice-rabid.github.io',
+  url: 'https://rabid-dao.github.io',
   baseUrl: '/rabid-backoffice-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'bft-rabid', // Usually your GitHub org/user name.
+  organizationName: 'rabid-dao', // Usually your GitHub org/user name.
   projectName: 'rabid-backoffice-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/docs-backoffice-rabid/rabid-backoffice-docs',
+            'https://github.com/rabid-dao/rabid-backoffice-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

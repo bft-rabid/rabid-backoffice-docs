@@ -26,6 +26,9 @@ For the withdrawal, the user can select the currency to be withdrawn, the destin
 
 ![img](/img/withdraw.PNG)
 
+To withdraw the incoming value of the sales of the NFTs, the user must select the NFT type, the amount and the transaction fee, the value will be deposited on the backoffice main wallet, where the user can withdraw for another wallets.
+
+![img](/img/withdraw.PNG)
 
 ## SMART CONTRACT BALANCES
 
