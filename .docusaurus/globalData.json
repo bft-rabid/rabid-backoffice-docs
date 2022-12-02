@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/rabid-backoffice-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/rabid-backoffice-docs/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "admin-manual/athletes",
+              "path": "/rabid-backoffice-docs/admin-manual/athletes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-manual/dashboard",
+              "path": "/rabid-backoffice-docs/admin-manual/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-manual/nft",
+              "path": "/rabid-backoffice-docs/admin-manual/nft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-manual/transactions",
+              "path": "/rabid-backoffice-docs/admin-manual/transactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-manual/whitelist",
+              "path": "/rabid-backoffice-docs/admin-manual/whitelist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/rabid-backoffice-docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/rabid-admin-manual",
+              "path": "/rabid-backoffice-docs/category/rabid-admin-manual",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/rabid-backoffice-docs/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

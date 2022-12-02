@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "RABID ADMINISTRATIVE",
+  "description": "The backoffice is the administrative area of the Rabid, where the Rabid employees will manage the sport events, athletes, scouts, mint new NFTs and have all the financial control.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/rabid-backoffice-docs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "intro",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Rabid Admin Manual",
+    "permalink": "/rabid-backoffice-docs/category/rabid-admin-manual"
+  }
+}

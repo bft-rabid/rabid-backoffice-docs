@@ -1,0 +1,26 @@
+{
+  "unversionedId": "admin-manual/nft",
+  "id": "admin-manual/nft",
+  "title": "NFTs",
+  "description": "In this document we are going to show the features of the Rabid Admin NFTs here.",
+  "source": "@site/docs/admin-manual/nft.md",
+  "sourceDirName": "admin-manual",
+  "slug": "/admin-manual/nft",
+  "permalink": "/rabid-backoffice-docs/admin-manual/nft",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ATHLETES",
+    "permalink": "/rabid-backoffice-docs/admin-manual/athletes"
+  },
+  "next": {
+    "title": "MARKETPLACE WHITELIST",
+    "permalink": "/rabid-backoffice-docs/admin-manual/whitelist"
+  }
+}

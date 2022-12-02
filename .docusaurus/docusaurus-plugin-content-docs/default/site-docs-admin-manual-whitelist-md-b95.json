@@ -1,0 +1,26 @@
+{
+  "unversionedId": "admin-manual/whitelist",
+  "id": "admin-manual/whitelist",
+  "title": "MARKETPLACE WHITELIST",
+  "description": "In this document we are going to show the features of the Rabid whitelist here.",
+  "source": "@site/docs/admin-manual/whitelist.md",
+  "sourceDirName": "admin-manual",
+  "slug": "/admin-manual/whitelist",
+  "permalink": "/rabid-backoffice-docs/admin-manual/whitelist",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFTs",
+    "permalink": "/rabid-backoffice-docs/admin-manual/nft"
+  },
+  "next": {
+    "title": "TRANSACTIONS",
+    "permalink": "/rabid-backoffice-docs/admin-manual/transactions"
+  }
+}

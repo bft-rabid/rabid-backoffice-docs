@@ -1,0 +1,22 @@
+{
+  "unversionedId": "admin-manual/transactions",
+  "id": "admin-manual/transactions",
+  "title": "TRANSACTIONS",
+  "description": "In this table, the backoffice user will be able to see all the transactions made in Rabid.",
+  "source": "@site/docs/admin-manual/transactions.md",
+  "sourceDirName": "admin-manual",
+  "slug": "/admin-manual/transactions",
+  "permalink": "/rabid-backoffice-docs/admin-manual/transactions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MARKETPLACE WHITELIST",
+    "permalink": "/rabid-backoffice-docs/admin-manual/whitelist"
+  }
+}

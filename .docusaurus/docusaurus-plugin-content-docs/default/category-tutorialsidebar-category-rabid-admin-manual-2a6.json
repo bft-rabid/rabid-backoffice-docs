@@ -1,0 +1,16 @@
+{
+  "title": "Rabid Admin Manual",
+  "description": "A manual of all the features of Rabid Administrative Platform",
+  "slug": "/category/rabid-admin-manual",
+  "permalink": "/category/rabid-admin-manual",
+  "navigation": {
+    "previous": {
+      "title": "RABID ADMINISTRATIVE",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "DASHBOARD",
+      "permalink": "/admin-manual/dashboard"
+    }
+  }
+}

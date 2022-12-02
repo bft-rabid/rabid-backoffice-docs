@@ -1,0 +1,245 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/rabid-backoffice-docs/",
+          "tagsPath": "/rabid-backoffice-docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\camil\\Documents\\GitHub\\rabid-backoffice-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\camil\\Documents\\GitHub\\rabid-backoffice-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\camil\\Documents\\GitHub\\rabid-backoffice-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "admin-manual/athletes",
+              "id": "admin-manual/athletes",
+              "title": "ATHLETES",
+              "description": "In this document we are going to show the features of the Rabid Admin athletes here.",
+              "source": "@site/docs/admin-manual/athletes.md",
+              "sourceDirName": "admin-manual",
+              "slug": "/admin-manual/athletes",
+              "permalink": "/rabid-backoffice-docs/admin-manual/athletes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DASHBOARD",
+                "permalink": "/rabid-backoffice-docs/admin-manual/dashboard"
+              },
+              "next": {
+                "title": "NFTs",
+                "permalink": "/rabid-backoffice-docs/admin-manual/nft"
+              }
+            },
+            {
+              "unversionedId": "admin-manual/dashboard",
+              "id": "admin-manual/dashboard",
+              "title": "DASHBOARD",
+              "description": "In this document we are going to show the features of the Rabid Admin dashboard here.",
+              "source": "@site/docs/admin-manual/dashboard.md",
+              "sourceDirName": "admin-manual",
+              "slug": "/admin-manual/dashboard",
+              "permalink": "/rabid-backoffice-docs/admin-manual/dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rabid Admin Manual",
+                "permalink": "/rabid-backoffice-docs/category/rabid-admin-manual"
+              },
+              "next": {
+                "title": "ATHLETES",
+                "permalink": "/rabid-backoffice-docs/admin-manual/athletes"
+              }
+            },
+            {
+              "unversionedId": "admin-manual/nft",
+              "id": "admin-manual/nft",
+              "title": "NFTs",
+              "description": "In this document we are going to show the features of the Rabid Admin NFTs here.",
+              "source": "@site/docs/admin-manual/nft.md",
+              "sourceDirName": "admin-manual",
+              "slug": "/admin-manual/nft",
+              "permalink": "/rabid-backoffice-docs/admin-manual/nft",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ATHLETES",
+                "permalink": "/rabid-backoffice-docs/admin-manual/athletes"
+              },
+              "next": {
+                "title": "MARKETPLACE WHITELIST",
+                "permalink": "/rabid-backoffice-docs/admin-manual/whitelist"
+              }
+            },
+            {
+              "unversionedId": "admin-manual/transactions",
+              "id": "admin-manual/transactions",
+              "title": "TRANSACTIONS",
+              "description": "In this table, the backoffice user will be able to see all the transactions made in Rabid.",
+              "source": "@site/docs/admin-manual/transactions.md",
+              "sourceDirName": "admin-manual",
+              "slug": "/admin-manual/transactions",
+              "permalink": "/rabid-backoffice-docs/admin-manual/transactions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MARKETPLACE WHITELIST",
+                "permalink": "/rabid-backoffice-docs/admin-manual/whitelist"
+              }
+            },
+            {
+              "unversionedId": "admin-manual/whitelist",
+              "id": "admin-manual/whitelist",
+              "title": "MARKETPLACE WHITELIST",
+              "description": "In this document we are going to show the features of the Rabid whitelist here.",
+              "source": "@site/docs/admin-manual/whitelist.md",
+              "sourceDirName": "admin-manual",
+              "slug": "/admin-manual/whitelist",
+              "permalink": "/rabid-backoffice-docs/admin-manual/whitelist",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NFTs",
+                "permalink": "/rabid-backoffice-docs/admin-manual/nft"
+              },
+              "next": {
+                "title": "TRANSACTIONS",
+                "permalink": "/rabid-backoffice-docs/admin-manual/transactions"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "RABID ADMINISTRATIVE",
+              "description": "The backoffice is the administrative area of the Rabid, where the Rabid employees will manage the sport events, athletes, scouts, mint new NFTs and have all the financial control.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/rabid-backoffice-docs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "id": "intro",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Rabid Admin Manual",
+                "permalink": "/rabid-backoffice-docs/category/rabid-admin-manual"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Rabid Admin Manual",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "admin-manual/dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "admin-manual/athletes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "admin-manual/nft"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "admin-manual/whitelist"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "admin-manual/transactions"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "A manual of all the features of Rabid Administrative Platform",
+                  "slug": "/category/rabid-admin-manual",
+                  "permalink": "/rabid-backoffice-docs/category/rabid-admin-manual"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/rabid-backoffice-docs/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/rabid-backoffice-docs/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

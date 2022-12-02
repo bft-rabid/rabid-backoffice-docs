@@ -1,0 +1,26 @@
+{
+  "unversionedId": "admin-manual/athletes",
+  "id": "admin-manual/athletes",
+  "title": "ATHLETES",
+  "description": "In this document we are going to show the features of the Rabid Admin athletes here.",
+  "source": "@site/docs/admin-manual/athletes.md",
+  "sourceDirName": "admin-manual",
+  "slug": "/admin-manual/athletes",
+  "permalink": "/rabid-backoffice-docs/admin-manual/athletes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DASHBOARD",
+    "permalink": "/rabid-backoffice-docs/admin-manual/dashboard"
+  },
+  "next": {
+    "title": "NFTs",
+    "permalink": "/rabid-backoffice-docs/admin-manual/nft"
+  }
+}
